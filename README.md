@@ -4,7 +4,7 @@
 
 <a href="https://github.com/Xorizn">
   
-![My card name](https://cardivo.vercel.app/api?name=Zee%20Qiang&description=I%27m%20just%20having%20fun%20with%20coding.&image=https://avatars.githubusercontent.com/u/86514883?v=4&backgroundColor=%23ecf0f1&instagram=yiball&github=xorizn&twitter=balaxdh&pattern=leaf&colorPattern=%23eaeaea)
+![Balaqiang's profile card](https://vibecard-fawn.vercel.app/api?name=Balaqiang&role=Creative+Developer&description=Building+delightful+things+for+the+web+%E2%80%94+open+source%2C+design+systems+and+tiny+tools+%E2%9C%A8&image=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86514883%3Fs%3D400%26u%3Deed17aefe1ec04d57b4434afece0cfb661003e70%26v%3D4&location=Bali%2C+Indonesia&theme=hacker&github=octocat&x=balaqiang&instagram=balaqiang&skills=TypeScript%2CSvelte%2CRust)
 
 </a>
 
