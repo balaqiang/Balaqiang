@@ -4,7 +4,7 @@
 
 <a href="https://github.com/Xorizn">
   
-![Bala Qiang's profile card](https://vibecardivo.vercel.app/api?name=Bala+Qiang&role=Creative+Developer&description=Nothing+gonna+change+my+love+for+six+eight&location=Bali%2C+Indonesia&site=https%3A%2F%2Fzeeqiang.my.id&theme=hacker&github=balaqiang&x=balaqiang&instagram=balaqiang&skills=TypeScript%2CJavascript%2CPhython)
+![Bala Qiang's profile card](https://vibecardivo.vercel.app/api?name=Bala+Qiang&role=Developer&description=Nothing+gonna+change+my+love+for+six+eight&location=Bali%2C+Indonesia&site=https%3A%2F%2Fzeeqiang.my.id&theme=hacker&github=balaqiang&x=balaqiang&instagram=balaqiang&skills=TypeScript%2CJavascript%2CPhython)
 
 </a>
 
