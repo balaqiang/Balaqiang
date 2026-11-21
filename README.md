@@ -2,10 +2,9 @@
   <h1>Hi, I'm Bala Qiang (Xorizn)</h1>
 </div>
 
-<a href="https://github.com/Xorizn">
-  
-![Bala Qiang's profile card](https://vibecardivo.vercel.app/api?name=Bala+Qiang&role=Developer&description=Nothing+gonna+change+my+love+for+six+eight&location=Bali%2C+Indonesia&site=https%3A%2F%2Fzeeqiang.my.id&theme=hacker&github=balaqiang&x=balaqiang&instagram=balaqiang&skills=TypeScript%2CJavascript%2CPhython)
+<a href="https://zeeqiang.my.id">
 
+![Bala Qiang's profile card](https://vibecardivo.vercel.app/api?name=Bala+Qiang&role=Creative+Developer&description=Nothing+gonna+change+my+love+for+six+eight&location=Bali%2C+Indonesia&site=https%3A%2F%2Fzeeqiang.my.id&theme=hacker&github=balaqiang&x=balaqiang&instagram=balaqiang&skills=TypeScript%2CJavaScript%2CPython&backgroundColor=%230f0f0e&fontColor=%23acaa9a&iconColor=%23767467&avatarShape=square&animation=type)
 </a>
 
 
