@@ -18,7 +18,7 @@
 
 I am a Nothing developer whose programming journey began in 2020. I have a strong focus on building efficient applications and a particular passion for technical writing and crafting comprehensive API documentation. I am a dedicated problem-solver who is constantly learning and expanding my technical skill set 
 
-## Technical Arsenal
+## Technical Arsenall
 
 Here are the languages and tools I work with:
 
